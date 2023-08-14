@@ -33,11 +33,3 @@
 - 毫无经历
 
 <!-- .slide -->
-
-<!-- .slide vertical=true -->
-
-- **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
-- **Shell**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
