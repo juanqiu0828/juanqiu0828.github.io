@@ -20,7 +20,7 @@
 
 <!-- .slide -->
 
-## Projects
+## Projects and experience
 
 <!-- .slide vertical=true -->
 
@@ -28,8 +28,8 @@
 
 <!-- .slide -->
 
-## Experience
+## postscript
 
-- 毫无经历
+- 总是请多指教！可以随便逛逛！
 
 <!-- .slide -->
