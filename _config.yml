@@ -582,7 +582,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
                         "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
                         "hidden": true,
-                        "night": ["好像可以给侧边栏换个颜色呢"]
+                        "night": ["好像可以给侧边栏换个颜色呢"]，
                         "custom": [{
                           "selector": "a",
                           "type": "link",
